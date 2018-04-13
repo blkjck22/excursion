@@ -3,11 +3,27 @@ body{
   text-align: center;
 }
 .main{
-  color: White;
+  color: white;
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px
+}
+.main_sub{
+  color: white;
+  font-family: verdana;
+  font-weight: 300300;
+  font-size: 42px
 }
 .secondary{
   color: gray;
+  font-family: verdana;
+  font-size: 21px
 }
 .link{
-
+  color: aquamarine;
+  font-size: 16px
+}
+.copyright{
+  text-align: right;
+  color: gray;
 }
